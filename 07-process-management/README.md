@@ -81,8 +81,9 @@ kill -9 PID
 Kill all instances of a process:
 ```bash
 pkill -9 processname
-```bash
+```
 kill -3
+```
 
 ### Stopping & Resuming Processes
 Stop a running process:
