@@ -82,6 +82,7 @@ Kill all instances of a process:
 ```bash
 pkill -9 processname
 ```
+```
 kill -3
 ```bash
 
